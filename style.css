@@ -38,7 +38,7 @@ button {
     text-transform: uppercase;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     letter-spacing: 1.5px;
-    background: linear-gradient(to left, #2b1010, #5f2828);
+    
     font-weight: bold;
     cursor: pointer;
     color: white;
